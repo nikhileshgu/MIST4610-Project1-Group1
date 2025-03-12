@@ -3,8 +3,8 @@
 ## Team Name and Members:
 Group 1
   1. Ayush Vashishtha (https://github.com/avash1015/MIST4610-Project1-Group1)
-  2. 
-  3.
+  2. Amruta Challa (@amrutac921)
+  3. Nikhilesh Gujjula (@nikhileshgu)
   4.
   5.
 
